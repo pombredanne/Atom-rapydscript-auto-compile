@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "description": "A short description of your package",
   "activationEvents": ["rapydscript-auto-compile:toggle"],
-  "repository": "https://github.com/tgienger/rapydscript-auto-compile",
+  "repository": "https://github.com/tgienger/Atom-rapydscript-auto-compile",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
