@@ -1,0 +1,15 @@
+{
+  "name": "rapydscript-auto-compile",
+  "main": "./lib/rapydscript-auto-compile",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "activationEvents": ["rapydscript-auto-compile:toggle"],
+  "repository": "https://github.com/atom/rapydscript-auto-compile",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+      "rapydscript": "0.2.3"
+  }
+}

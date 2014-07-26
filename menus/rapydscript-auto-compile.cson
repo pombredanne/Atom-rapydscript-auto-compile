@@ -1,0 +1,16 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  '.overlayer':
+      'Enable rapydscript-auto-compile': 'rapydscript-auto-compile:toggle'
+
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'rapydscript-auto-compile'
+      'submenu': [
+        { 'label': 'Toggle', 'command': 'rapydscript-auto-compile:toggle' }
+      ]
+    ]
+  }
+]
