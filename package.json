@@ -1,7 +1,7 @@
 {
   "name": "rapydscript-auto-compile",
   "main": "./lib/rapydscript-auto-compile",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A short description of your package",
   "activationEvents": ["rapydscript-auto-compile:toggle"],
   "repository": "https://github.com/tgienger/rapydscript-auto-compile",
