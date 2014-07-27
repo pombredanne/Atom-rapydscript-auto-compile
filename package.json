@@ -2,7 +2,7 @@
   "name": "rapydscript-auto-compile",
   "main": "./lib/rapydscript-auto-compile",
   "version": "0.2.0",
-  "description": "A short description of your package",
+  "description": "Compiles rapydscripts .pyj files to .js on save",
   "activationEvents": [
     "rapydscript-auto-compile:toggle"
   ],
